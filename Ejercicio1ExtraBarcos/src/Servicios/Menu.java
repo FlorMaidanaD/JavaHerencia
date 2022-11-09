@@ -334,4 +334,27 @@ public class Menu {
         }
         System.out.println("******************************");
     }
+    
+    
+//    public static Calendar StringToCalendar(String time, String format) {
+//                Calendar calendar = Calendar.getInstance();
+//                SimpleDateFormat dateformat = new SimpleDateFormat(format);
+//                try {
+//                        calendar.setTime(dateformat.parse(time));
+//                        return calendar;
+//                } catch (Exception e) {
+//                        return calendar;
+//                }
+//        }
+////public static Calendar StringToCalendar(String time, String format) {
+//                Calendar calendar = Calendar.getInstance();
+//                SimpleDateFormat dateformat = new SimpleDateFormat(format);
+//                try {
+//                        calendar.setTime(dateformat.parse(time));
+//                        return calendar;
+//                } catch (Exception e) {
+//                        return calendar;
+//                }
+//        }
+
 }
